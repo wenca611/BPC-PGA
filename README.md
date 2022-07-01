@@ -2,7 +2,7 @@
 Programovatelné automaty
 
 ## [Zadání úloh](zadani):
-1. [Úloha 1](zadani/Úloha_1_Zebra.pdf)
+1. [Ovládání přechodu pro chodce - ZEBRA](zadani/Úloha_1_Zebra.pdf)
 
 
 

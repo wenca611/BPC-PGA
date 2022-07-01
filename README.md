@@ -18,4 +18,6 @@ Programovatelné automaty
 6. [Vjezd na parkoviště](reseni/PC6_204437.pdf)
 
 ## [Finální projekt](finalni_projekt):
-* [Zadání]()
+* [Zadání](finalni_projekt/Úloha_7_Kuličky.pdf)
+* [Řešení](finalni_projekt/Kulicky_projekt_204437.pdf)
+* [ZIP](finalni_projekt/kulicky_204437_v3.zip)

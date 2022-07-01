@@ -22,6 +22,6 @@ Programovatelné automaty
 * [Řešení](finalni_projekt/Kulicky_projekt_204437.pdf)
 * [ZIP](finalni_projekt/kulicky_204437_v3.zip)
 
-Vizualizace:
+Vizualizace finálního projektu:
 
 ![Vizualizace](images/Vizualizace_kulicky.jpg)

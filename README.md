@@ -2,7 +2,7 @@
 Programovatelné automaty
 
 ## Zadání úloh:
-1. [zadani](zadani)
+[Zadání](zadani)
 
 ## Řešení úloh:
 

@@ -1,4 +1,5 @@
 # BPC-PGA
+Programovatelné automaty
 
 ## Zadání úloh:
 

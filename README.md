@@ -17,5 +17,5 @@ Programovatelné automaty
 5. [Napouštění a ohřev tanku](reseni/PC5_204437.pdf)
 6. [Vjezd na parkoviště](reseni/PC6_204437.pdf)
 
-## [Finální projekt](finalni projekt):
+## [Finální projekt](finalni\ projekt):
 * [Zadání]()

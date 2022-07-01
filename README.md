@@ -2,7 +2,10 @@
 Programovatelné automaty
 
 ## Zadání úloh:
-[Zadání](zadani)
+* [Zadání](zadani)
+1. [Úloha 1](zadani/Úloha_1_Zebra.pdf)
+
+
 
 ## Řešení úloh:
 
